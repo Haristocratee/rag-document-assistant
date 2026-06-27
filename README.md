@@ -10,6 +10,12 @@
 
 ---
 
+
+## Visualisation
+
+![Architecture RAG (PDF → Chunks → Embeddings → FAISS → GPT) · Espace t-SNE des embeddings](assets/viz_3_rag.png)
+
+> *Architecture RAG (PDF → Chunks → Embeddings → FAISS → GPT) · Espace t-SNE des embeddings*
 ## 🎯 Fonctionnalités
 
 - 📄 Upload de documents PDF
